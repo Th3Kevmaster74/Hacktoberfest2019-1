@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### YOUR FULL NAME
+- Photo: N/A
+- Location: Small village near Hannover, Germany
+- Bio: Random Guy on the Web trying to figure out Github.
+- Github: https://github.com/Th3Kevmaster74
